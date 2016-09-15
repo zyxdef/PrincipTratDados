@@ -4,8 +4,8 @@ author: "Marcelo Ventura Freire (EACH/USP)"
 output: 
   ioslides_presentation: 
     fig_caption: yes
-    incremental: yes
-    transition: faster
+    # incremental: yes
+    # transition: faster
 ---
 
 ```{r setup, include=FALSE, eval=FALSE}
