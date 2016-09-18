@@ -2,10 +2,16 @@
 title: "Princípios de Tratamento e Manuseio de Dados"
 author: "Marcelo Ventura Freire (EACH/USP)"
 output: 
-  ioslides_presentation: 
-    fig_caption: yes
-    # incremental: yes
-    # transition: faster
+    ioslides_presentation:
+        self_contained: true
+        smaller: true
+        smart: true
+    # html_document:
+    #     toc: true
+    #     toc_float: true
+    #     toc_depth: 2
+    #     self_contained: true
+    #     smart: true
 ---
 
 ```{r setup, include=FALSE, eval=FALSE}
@@ -503,10 +509,7 @@ fora da Estatística e dentro da Computação em geral.
 
 ### "Para saber mais, clique em ..."
 
-Por exemplo, é possível encontrar
-[isto](http://betterevaluation.org/sites/default/files/data_cleaning.pdf)
-
-<http://betterevaluation.org/sites/default/files/data_cleaning.pdf>
+Por exemplo, é possível encontrar isto ...
 
 ![http://betterevaluation.org/sites/default/files/data_cleaning.pdf](Data.Cleaning.jpeg)
 
@@ -516,9 +519,7 @@ Por exemplo, é possível encontrar
 
 ### "Para saber mais, clique em ..."
 
-ou [isto](https://infoactive.co/data-design/ch08.html)
-
-<https://infoactive.co/data-design/ch08.html>
+ou isto.
 
 ![https://infoactive.co/data-design/ch08.html](Data.Design.jpeg)
 
