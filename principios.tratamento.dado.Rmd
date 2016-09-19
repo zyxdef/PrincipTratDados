@@ -32,11 +32,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Organizar o conjunto de dados para que possa ser analisado estatisticamente
 
-1. Conjuntos de Dados
-1. Organizando um Conjunto de Dados
-2. Programe! Não Faça Manualmente
-3. Boas Práticas
-4. Integração de Dois ou Mais Conjuntos de Dados
+1. [Conjuntos de Dados](#4)
+1. [Organizando um Conjunto de Dados](#20)
+1. [Programe! Não Faça Manualmente](#57)
+1. [Boas Práticas](#60)
+1. [Integração de Dois ou Mais Conjuntos de Dados](#75)
 
 
 
